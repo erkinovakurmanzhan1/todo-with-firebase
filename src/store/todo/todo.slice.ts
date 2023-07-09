@@ -8,7 +8,6 @@ export interface Todo {
     completed?: boolean;
 }
 
-
 const initialState = [] as Todo[]
 
 
